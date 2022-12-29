@@ -29,8 +29,8 @@
 <distributionManagement>
   <repository>
     <id>releases</id>
-    <!-- <url>http://52.204.135.48:8081/nexus/content/repositories/releases</url> -->    
-    <url>http://binary.ibm.com/nexus/content/repositories/releases</url>
+    <url>http://3.144.96.22:8081/#browse/browse:simpleapp-release</url>     
+    <!-- <url>http://binary.ibm.com/nexus/content/repositories/releases</url> -->
   </repository>
 </distributionManagement>
 </project>
